@@ -39,10 +39,10 @@ To run this project, you will need to use the environment file in folder _enviro
 
 ## Usage/Examples
 
-A notebook _example_notebook.ipyb_ with examples of using the CleverCopyPredictor and chaining models is available at ... .
+A notebook _example_notebook.ipyb_ with examples of using the CleverCopyPredictor and chaining models guiding you through the methods.
 
-It is recommended to use the following data structure:
+It is recommended to use the following dir structure:
 
 -head_dir    
---input_files_processed  
+--input_files (processed, not the raw files)  
 --chaining  
